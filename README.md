@@ -46,3 +46,12 @@ A simple TF‑IDF + Logistic Regression baseline with CLI tools and a FastAPI se
   - GET /health
   - POST /predict  (body: {"text": "...", "threshold": optional float})
   - POST /predict-batch  (body: {"texts": ["...","..."], "threshold": optional float})
+
+## Contributing
+
+Contributions are welcome. If you'd like to improve this project, please:
+
+1. Create a new feature branch.
+2. Make your changes.
+3. Commit your changes with a clear message.
+4. Open a Pull Request for review.
